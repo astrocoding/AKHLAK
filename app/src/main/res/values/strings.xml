@@ -17,8 +17,8 @@
     <string name="loyal">Loyal</string>
     <string name="adaptif">Adaptif</string>
     <string name="kolaboratif">Kolaboratif</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
     <string name="username">Dri Asih Harnano</string>
-    <string name="email">dri.harnano@mhs.rosma.ac.id</string>
+    <string name="email">driasihharnano@gmail.com</string>
+    <string name="versi">Versi 2023.1</string>
 </resources>
